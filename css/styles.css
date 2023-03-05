@@ -1,6 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Jua&display=swap');
+
 @import "reset.css";
-@import "status-bar.css";
+@import "start.css";
 
 body {
-    font-style:sans-serif;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Noto Serif KR', serif;
+    background-color: rgb(245, 245, 234);
+    
+
 }
+
